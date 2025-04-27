@@ -2,10 +2,10 @@
   "name": "TextTime watch Face",
   "shortName":"textTime2",
   "icon": "app.png",
-  "version":"0.01",
+  "version":"0.02",
   "description": "A watchface showing the battery and date with the time in text",
  "type":"clock",   
-  "tags": "clock",  
+  "tags": "clock, text",  
   "supports": ["BANGLEJS2"],
   "storage": [
     {"name":"textTime2.app.js","url":"app.js"},
